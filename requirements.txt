@@ -4,7 +4,7 @@ Flask==1.1.2
 Flask-Admin==1.0.8
 Flask-Bcrypt==0.7.1
 flask-blacklist==0.0.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-DebugToolbar==0.11.0
 Flask-JWT-Extended==3.24.1
 Flask-Login==0.5.0
